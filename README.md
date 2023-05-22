@@ -9,7 +9,7 @@
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@Mansoura University](https://www.mans.edu.eg/en)** pursuing MTE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing projects that serve a great deal of purpose. <br/><br/>
+I'm an **Undergrad Student🎓 [@Mansoura University](https://www.mans.edu.eg/en)** pursuing MTE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing projects Using AVR and ARM Based MCUs. <br/><br/>
 
 
 
